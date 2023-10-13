@@ -2,3 +2,9 @@ GET http://localhost:3000 HTTP/1.1
 
 ###
 GET http://localhost:3000/newPerson HTTP/1.1
+
+###
+GET https://storechava-01.onrender.com HTTP/1.1
+
+###
+GET https://storechava-01.onrender.com/newPerson HTTP/1.1
